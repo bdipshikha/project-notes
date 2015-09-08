@@ -1,0 +1,50 @@
+
+#sidebar {
+	border: 1px solid;
+	float: left;
+	width: 250px;
+	height: 100%;
+	background-color: tan;
+	padding-left: 10px;
+}
+#itemsList {
+	list-style-type: none;
+	padding: 0px;
+	font-family: helvetica;
+}
+h3 {
+	position: center;
+	font-family: helvetica;
+}
+body {
+	padding-right: 0px;
+	padding-left: 0px;
+}
+#edit {
+	height: 50%;
+	float: right;
+	width: 1000px;
+	padding-right: 0px;
+
+}
+button {
+	font-size: 15px;
+	font-family: helvetica;
+	border: 1px solid;
+}
+div#edit textarea {
+	font-family: helvetica;
+	background-color: #DDDDDD;
+	height: 586px;
+	width: 100%;
+	font-size: 18px;
+}
+div#edit input {
+	border-bottom: 2px solid;
+	font-family: helvetica;
+	background-color: #DDDDDD;
+	padding-right: 0px;
+	height: 40px;
+	width: 100%;
+	font-size: 18px;
+}
