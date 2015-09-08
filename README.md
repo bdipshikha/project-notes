@@ -2,4 +2,4 @@
 
 
 	Wireframe created with screenshot
-	 ![alt tag](/Users/Dipshikha/Desktop/to/img.png)
+	 ![alt tag](http:///Users/Dipshikha/Desktop/to/Screen Shot 2015-09-06 at 1.52.37 PM.png)
